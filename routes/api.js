@@ -155,8 +155,8 @@ var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-          user: "dajo1986@gmail.com", // generated ethereal user
-          pass: "enanoa2014", // generated ethereal password
+          user: "////", // generated ethereal user
+          pass: "///", // generated ethereal password
         },
       });
     
